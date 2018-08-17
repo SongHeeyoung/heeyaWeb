@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="5ac6da22-94c8-48c0-b3de-75cdba0fa253" name="styleWeb" url="http://heeya-web.com/">
+        <fileTransfer host="heeya-web.com" port="21" rootFolder="/html/styleWeb">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

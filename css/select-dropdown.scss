@@ -1,0 +1,566 @@
+
+input::-webkit-input-placeholder {
+    font-size: 14px;
+    font-family: Poppins, sans-serif, 'Nanum Gothic', sans-serif, 'Source Sans Pro';
+    color: $beforeActive-color;
+}
+
+input:focus::-webkit-input-placeholder {
+    border-color: #58C9B9;
+    color: $afterActive-color;
+}
+
+input:-ms-input-placeholder {
+    font-size: 14px;
+    font-family: Poppins, sans-serif, 'Nanum Gothic', sans-serif, 'Source Sans Pro';
+    color: $beforeActive-color;
+}
+
+input:focus:-ms-input-placeholder {
+    border-color: #58C9B9;
+    color: $afterActive-color;
+}
+
+input::-moz-placeholder {
+    font-size: 14px;
+    font-family: Poppins, sans-serif, 'Nanum Gothic', sans-serif, 'Source Sans Pro';
+    color: $beforeActive-color;
+}
+
+input:focus:-moz-placeholder {
+    border-color: #58C9B9;
+    color: $afterActive-color;
+}
+
+/* basic-dropDown */
+
+@mixin dropBox {
+    
+    .dropDown {
+        height: 36px;
+        position: relative;
+        i {
+            position: absolute;
+            right: 10px;
+            top: 10px;
+            font-size: 18px;
+            color: $beforeActive-color;
+        }
+        .btn_drop {
+            text-decoration: none;
+            width: 100%;
+            height: 100%;
+            box-sizing: border-box;
+            overflow: hidden;
+            text-overflow: ellipsis;
+            white-space: nowrap;
+            word-wrap: normal;
+            line-height: 1em;
+            i {
+                font-size: 13px;
+                position: absolute;
+                right: 10px;
+                top: 11px;
+            }
+            img {
+                width: 30px;
+                height: 30px;
+                border-radius: 100%;
+                margin-top: -4px;
+                float: left;
+                margin-right: 10px;
+                outline: none;
+                border: none;
+            }
+            span {
+                font-size: 14px;
+            }
+        }
+        .dropBox {
+            display: none;
+            background: #fff;
+            position: Absolute;
+            z-index: 10;
+            left: -1px;
+            top: 30px;
+            box-shadow: 0 3px 6px rgba(0, 0, 0, .16), 0 3px 6px rgba(0, 0, 0, .22);
+            border-top: 1px solid rgba(0, 0, 0, .1);
+            border-radius: 2px 2px 0 0;
+            @extend .listStyleN;
+            li {
+                a {
+                    padding: 8px 16px 8px 40px;
+                    text-decoration: none;
+                    display: block;
+                    clear: both;
+                    font-weight: 300;
+                    line-height: 18px;
+                    white-space: nowrap;
+                    min-height: 34px;
+                    box-sizing: border-box;
+                    position: relative;
+                    &:hover {
+                        background: #f4f4f4;
+                        i {
+                        }
+                    }
+                    i {
+                        display: inline-block;
+                        position: absolute;
+                        left: 0;
+                        top: 50%;
+                        font-size: 17px;
+                        margin-top: -8px;
+                        color: #6f6f6f;
+                    }
+                    .icon-settings {
+                        left: 16px;
+                    }
+                    .icon-logout {
+                        left: 13px
+                    }
+                }
+                
+            }
+        }
+        .dropBox.on {
+            display: block;
+        }
+    }
+    
+}
+
+/* basic-form-style */
+.form_group {
+    &:after {
+        clear: both;
+        display: block;
+        content: ""
+    }
+}
+
+.formControl {
+    display: block;
+    &:after {
+        clear: both;
+        display: block;
+        content: "";
+    }
+    .selectControl {
+        float: left;
+        margin-right: 10px;
+        &.active {
+            .ss_button {
+                border-color: #57c6b6
+            }
+        }
+        .selectstyle {
+            margin-bottom: 15px;
+        }
+    }
+    
+    input[type="text"] {
+        padding: 10px 10px;
+    }
+    input, .dropDown {
+        outline: none;
+        box-sizing: border-box;
+        position: relative;
+        background-color: #fff;
+        border: 1px solid #c3c3c3;
+        border-radius: 3px;
+        cursor: pointer;
+        width: 250px;
+        float: left;
+        margin-right: 10px;
+        margin-bottom: 10px;
+        color: $afterActive-color;
+        &.simpleLine {
+            border-top: none;
+            border-left: none;
+            border-right: none;
+            border-radius: 0;
+            padding-left: 0;
+        }
+        &:active, &:focus {
+            border-color: #58C9B9;
+            color: $afterActive-color;
+        }
+        a {
+            display: inline-block;
+            padding: 10px 10px;
+        }
+        .dropBox {
+            box-sizing: border-box;
+            top: 40px !important;
+            color: $beforeActive-color;
+            li {
+                span {
+                    padding: 8px 16px 8px 10px;
+                    text-decoration: none;
+                    display: block;
+                    clear: both;
+                    font-weight: 300;
+                    line-height: 18px;
+                    white-space: nowrap;
+                    min-height: 34px;
+                    box-sizing: border-box;
+                    position: relative;
+                    &:hover {
+                        background: #f4f4f4;
+                        color: $afterActive-color;
+                    }
+                }
+            }
+            
+        }
+    }
+    &.jenga {
+        margin: 0 auto 0;
+        input {
+            float: none;
+            display: block;
+            border-radius: 0;
+            margin: 0;
+            margin-top: -1px;
+            position: relative;
+            z-index: 1;
+            &:first-child {
+                margin-top: 0;
+            }
+            &:active, &:focus {
+                z-index: 5;
+            }
+        }
+    }
+    &:after {
+        clear: both;
+        display: block;
+        content: ""
+    }
+}
+
+
+/* checkbox ------------------------------------------------------- */
+input[type="checkbox"] {
+    display: none;
+    & + label {
+        margin-right: 8px;
+        position: relative;
+        display: inline-block;
+        padding-left: 20px;
+        span {
+            position: absolute;
+            left: 0;
+            top: 2px;
+            &:after {
+                display: inline-block;
+                width: 20px;
+                height: 20px;
+                content: "\f0c8";
+                font-size: 18px;
+                font-family: "FontAwesome";
+                color: rgb(88, 201, 185);
+            }
+        }
+    }
+    &:checked + label span:after {
+        content: "\f14a";
+    }
+}
+
+/* radio ------------------------------------------------------- */
+input[type="radio"] {
+    display: none;
+    & + label {
+        margin-right: 8px;
+        position: relative;
+        display: inline-block;
+        padding-left: 20px;
+        span {
+            position: absolute;
+            left: 0;
+            top: 2px;
+            &:after {
+                display: inline-block;
+                width: 20px;
+                height: 20px;
+                content: "\f111";
+                font-size: 18px;
+                font-family: "FontAwesome";
+                color: rgb(88, 201, 185);
+            }
+        }
+    }
+    &:checked + label span:after {
+        content: "\f192";
+    }
+}
+
+/** selectstyle **/
+.selectstyle {
+    position: relative;
+    width: auto !important;
+    box-sizing: border-box;
+    &.ss_dib, .ss_dib {
+        display: inline-block;
+        vertical-align: top;
+        box-sizing: border-box;
+    }
+    .ss_button {
+        line-height: 1em;
+        height: 36px;
+        position: relative;
+        margin: 0;
+        color: #595959;
+        box-sizing: border-box;
+        border: 1px solid #cbcbcb;
+        border-radius: 3px;
+        cursor: pointer;
+        text-decoration: none;
+        background: none;
+        padding: 10px;
+        overflow: hidden;
+        clear: both;
+        display: inline-block;
+        vertical-align: top;
+        word-break: break-all;
+        .ss_text {
+            text-overflow: ellipsis;
+            text-indent: 0;
+            white-space: nowrap;
+            overflow: hidden;
+            width: 95%;
+            color: #ababab;
+            line-height: 1em;
+            &.textOn {
+                color: $softBlack;
+            }
+        }
+        .ss_image {
+            position: Absolute;
+            right: 10px;
+            top: 10px;
+            &:after {
+                font-family: "FontAwesome";
+                display: inline-block;
+                content: "\f107";
+                font-size: 18px;
+                width: 10px;
+                height: 20px;
+                color: #ababab;
+            }
+            &.textOn:after {
+                color: $softBlack;
+            }
+        }
+    }
+    
+    .ss_ul {
+        list-style: none;
+        margin: 0;
+        position: absolute;
+        background: #fff;
+        border: 1px solid #ccc;
+        -moz-box-shadow: 0 1px 5px 1px rgba(0, 0, 0, 0.1);
+        -webkit-box-shadow: 0 1px 5px 1px rgba(0, 0, 0, 0.1);
+        box-shadow: 0 1px 5px 1px rgba(0, 0, 0, 0.1);
+        border-radius: 3px;
+        -moz-border-radius: 3px;
+        -webkit-border-radius: 3px;
+        display: none;
+        overflow: auto;
+        z-index: 100;
+    }
+    .ss_ulsearch {
+        margin: 0;
+        position: absolute;
+        left: 0;
+        top: 40px;
+        background: #fff;
+        border: 1px solid #ccc;
+        border-top: none;
+        -moz-box-shadow: 0 1px 5px 1px rgba(0, 0, 0, 0.1);
+        -webkit-box-shadow: 0 1px 5px 1px rgba(0, 0, 0, 0.1);
+        box-shadow: 0 1px 5px 1px rgba(0, 0, 0, 0.1);
+        border-radius: 3px;
+        -moz-border-radius: 3px;
+        -webkit-border-radius: 3px;
+        overflow: auto;
+        z-index: 100;
+        display: none;
+        
+        .ss_ul {
+            padding: 8px 0;
+            display: block;
+            position: relative;
+            margin-top: 0;
+            border: none;
+            -moz-box-shadow: none;
+            -webkit-box-shadow: none;
+            box-shadow: none;
+            border-radius: 0px;
+            -moz-border-radius: 0px;
+            -webkit-border-radius: 0px;
+            
+            &::-webkit-scrollbar {
+                width: 10px;
+            }
+            &::-webkit-scrollbar:horizontal {
+                height: 10px;
+            }
+            &::-webkit-scrollbar-track {
+                border-left: 1px solid #D3D3D3;
+                background: #F5F5F5;
+            }
+            &::-webkit-scrollbar-thumb {
+                background: #C4C4C4;
+            }
+            
+            li {
+                padding: 10px 15px;
+                cursor: pointer;
+                border: none;
+                text-align: left;
+                color: #595959;
+                transition-duration: .3s;
+                -moz-transition-duration: .3s;
+                -webkit-transition-duration: .3s;
+                -o-transition-duration: .3s;
+                font-size: 14px;
+                .ssli_text {
+                    vertical-align: top;
+                    display: inline-block;
+                }
+                .ssli_image {
+                    display: inline-block;
+                    width: 16px;
+                    height: 16px;
+                    margin-right: 10px;
+                    margin-top: -1px;
+                    vertical-align: top;
+                    img {
+                        width: 16px;
+                        height: 16px;
+                    }
+                }
+                &:hover {
+                    border: none;
+                    background: #eee;
+                }
+            }
+        }
+        .search {
+            
+            padding: 10px;
+            
+            input {
+                background: inherit;
+                height: 100%;
+                outline: none;
+                font-size: 14px;
+                margin: 0;
+                width: 100%;
+                box-sizing: border-box;
+                &:focus {
+                    outline: none;
+                }
+            }
+        }
+        .nosearch {
+            text-align: center;
+            font-size: 12px;
+            padding: 10px;
+            background: #fff;
+        }
+    }
+}
+
+
+
+/* custom-form-size  xs,s,m,l */
+.styleMedium {
+    width: 250px !important;
+    #select_style {
+        width: auto;
+        max-width: 250px !important;
+        min-width: 250px !important
+    }
+    .ss_button {
+        width: auto;
+        max-width: 250px !important;
+        min-width: 250px !important;
+        .ss_text {
+            width: 90% !important
+        }
+    }
+    .btn_drop {
+        width: 250px !important;
+    }
+    .dropBox {
+        box-sizing: border-box;
+        width: auto !important;
+        li {
+            min-width: 250px !important;
+            width: auto;
+        }
+    }
+}
+
+.styleXSmall {
+    width: 100px !important;
+    #select_style {
+        width: auto;
+        max-width: 100px !important;
+        min-width: 100px !important
+    }
+    .ss_button {
+        width: auto;
+        max-width: 100px !important;
+        min-width: 100px !important
+    }
+    .btn_drop {
+        width: 100px !important;
+    }
+    .dropBox {
+        box-sizing: border-box;
+        width: auto !important;
+        li {
+            min-width: 100px !important;
+            width: auto;
+        }
+    }
+    
+}
+
+.styleSmall {
+    width: 150px !important;
+    #select_style {
+        width: auto;
+        max-width: 150px !important;
+        min-width: 150px !important
+    }
+    .ss_button {
+        width: auto;
+        max-width: 150px !important;
+        min-width: 150px !important;
+        .ss_text {
+            width: 90% !important
+        }
+    }
+    .btn_drop {
+        width: 150px !important;
+    }
+    .dropBox {
+        box-sizing: border-box;
+        width: auto !important;
+        li {
+            min-width: 150px !important;
+            width: auto;
+        }
+    }
+    
+}
+
+
+

@@ -1,0 +1,688 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="78464ddf-aa3c-46a0-8eb4-28218febf314" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/formStyle.html" beforeDir="false" afterPath="$PROJECT_DIR$/formStyle.html" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="styleWeb" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="style.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/style.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="473">
+              <caret line="606" column="8" selection-start-line="606" selection-start-column="8" selection-end-line="606" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="formStyle.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/formStyle.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="432">
+              <caret line="213" column="20" selection-start-line="213" selection-start-column="20" selection-end-line="213" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SASS.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/SASS.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="364">
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="common.rnc" pinned="false" current-in-tab="false">
+        <entry file="jar://$APPLICATION_HOME_DIR$/lib/phpstorm.jar!/resources/html5-schema/html5/common.rnc">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4992">
+              <caret line="192" column="18" selection-start-line="192" selection-start-column="18" selection-end-line="192" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sftp-config.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sftp-config.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="338">
+              <caret line="13" column="22" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="select-dropdown.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/select-dropdown.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="12324">
+              <caret line="474" column="9" lean-forward="true" selection-start-line="474" selection-start-column="9" selection-end-line="474" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/style.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="858">
+              <caret line="33" column="13" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="selectstyle.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/selectstyle.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2106">
+              <caret line="81" column="28" lean-forward="true" selection-start-line="81" selection-start-column="28" selection-end-line="81" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="jquery-3.1.1.min.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/jquery-3.1.1.min.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1742">
+              <caret line="3" column="748" selection-start-line="3" selection-start-column="748" selection-end-line="3" selection-end-column="748" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>btn</find>
+      <find>btn-warning</find>
+      <find>Awesome</find>
+      <find>fontawesome</find>
+      <find>10px 15px</find>
+      <find>google</find>
+      <find>FontAwesome</find>
+      <find>undefined</find>
+      <find>44px</find>
+      <find>ul#select_style_ul, div#select_style</find>
+      <find>formControl</find>
+      <find>selectstyle</find>
+      <find>search</find>
+      <find>select_style_ul</find>
+      <find>zzz</find>
+      <find>selectCotrol</find>
+      <find>selectControl</find>
+      <find>light</find>
+      <find>simple-select</find>
+      <find>small</find>
+      <find>if</find>
+      <find>margin-right</find>
+      <find>ss_ulsearch</find>
+      <find>select_style</find>
+      <find>widget_container</find>
+      <find>ss_text</find>
+      <find>radio</find>
+      <find>basic</find>
+      <find>,,,</find>
+      <find>,,</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>href=&quot;#&quot;</replace>
+      <replace>menuList</replace>
+      <replace>menu</replace>
+      <replace>#menu</replace>
+      <replace>../fonts</replace>
+      <replace>&lt;li&gt;</replace>
+      <replace>push</replace>
+      <replace>panel</replace>
+      <replace>page_container</replace>
+      <replace>select-style</replace>
+      <replace>color: $primary-color;</replace>
+      <replace>58C9B</replace>
+      <replace>58C9B9</replace>
+      <replace>color:$softBlack;</replace>
+      <replace>$mediumGray</replace>
+      <replace>$beforeActive-color</replace>
+      <replace>$afterActive-color</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/style.less" />
+        <option value="$PROJECT_DIR$/style.min.css" />
+        <option value="$PROJECT_DIR$/style.sass" />
+        <option value="$PROJECT_DIR$/style.scss" />
+        <option value="$USER_HOME$/Desktop/Responsive-Dropdown-Toggle-Menu-Plugin-jQuery/Responsive-Dropdown-Toggle-Menu-Plugin-jQuery/js/script.js" />
+        <option value="$USER_HOME$/Desktop/Responsive-Dropdown-Toggle-Menu-Plugin-jQuery/Responsive-Dropdown-Toggle-Menu-Plugin-jQuery/index.html" />
+        <option value="$PROJECT_DIR$/css/style.css" />
+        <option value="$PROJECT_DIR$/js/script.js" />
+        <option value="$USER_HOME$/Downloads/Floating-Sticky-Slide-Menu-Plugin-With-jQuery-Slide-Menu/Floating-Sticky-Slide-Menu-Plugin-With-jQuery-Slide-Menu/index.html" />
+        <option value="$USER_HOME$/Desktop/slide/index.html" />
+        <option value="$USER_HOME$/Downloads/bigSlide.js-master/bigSlide.js-master/demo/simple.html" />
+        <option value="$USER_HOME$/Desktop/slide1/index.html" />
+        <option value="$USER_HOME$/Desktop/super.tpl" />
+        <option value="$USER_HOME$/Downloads/Simple-Line-Icons-Webfont/Simple-Line-Icons-Webfont/index.html" />
+        <option value="$USER_HOME$/Desktop/선녀와나무꾼_홈페이지_수정요청서/index.php" />
+        <option value="$PROJECT_DIR$/css/all.min.css" />
+        <option value="$USER_HOME$/Desktop/slide2/simple.html" />
+        <option value="$USER_HOME$/AppData/Local/Temp/simple-line-icons.css" />
+        <option value="$PROJECT_DIR$/css/simple-line-icons.css" />
+        <option value="$PROJECT_DIR$/dashboard.html" />
+        <option value="$PROJECT_DIR$/css/selectstyle.css" />
+        <option value="$USER_HOME$/Downloads/Dropdown-Select-Fuzzy-Search-jQuery-SimpleSelect/Dropdown-Select-Fuzzy-Search-jQuery-SimpleSelect/index.html" />
+        <option value="$USER_HOME$/Downloads/jQuery-Plugin-For-Custom-Searchable-Select-List-Customselect/jQuery-Plugin-For-Custom-Searchable-Select-List-Customselect/index.html" />
+        <option value="$USER_HOME$/Downloads/dropdown-with-search-using-jquery/dropdown-with-search-using-jquery/index.php" />
+        <option value="$USER_HOME$/Downloads/dropdown-with-search-using-jquery/dropdown-with-search-using-jquery/index.html" />
+        <option value="$USER_HOME$/Downloads/Searchable-Dropdown-Select-jQuery-Selectstyle (1)/Searchable-Dropdown-Select-jQuery-Selectstyle/index.html" />
+        <option value="$PROJECT_DIR$/js/jquery.scrollbar.min.js" />
+        <option value="$PROJECT_DIR$/js/jquery-3.1.1.min.js" />
+        <option value="$PROJECT_DIR$/member/member.html" />
+        <option value="$USER_HOME$/Downloads/malihu-custom-scrollbar-plugin-master/malihu-custom-scrollbar-plugin-master/jquery.mCustomScrollbar.css" />
+        <option value="$USER_HOME$/Downloads/malihu-custom-scrollbar-plugin-master/malihu-custom-scrollbar-plugin-master/examples/simple_example.html" />
+        <option value="$PROJECT_DIR$/js/bigSlide.min.js" />
+        <option value="$PROJECT_DIR$/js/simpleSelect.js" />
+        <option value="$PROJECT_DIR$/layout.html" />
+        <option value="$PROJECT_DIR$/login.html" />
+        <option value="$PROJECT_DIR$/sftp-config.json" />
+        <option value="$USER_HOME$/Downloads/Searchable-Dropdown-Select-jQuery-Selectstyle/Searchable-Dropdown-Select-jQuery-Selectstyle/index.html" />
+        <option value="$PROJECT_DIR$/fromStyle.html" />
+        <option value="$PROJECT_DIR$/css/style.scss" />
+        <option value="$PROJECT_DIR$/js/style.js" />
+        <option value="$PROJECT_DIR$/js/selectstyle.js" />
+        <option value="$PROJECT_DIR$/css/select-dropdown.scss" />
+        <option value="$PROJECT_DIR$/member.html" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/formStyle.html" />
+        <option value="$USER_HOME$/heeyaWeb/formStyle.html" />
+        <option value="$PROJECT_DIR$/SASS.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-7" />
+    <option name="width" value="1032" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <expand>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="styleWeb" type="cbb8eebc:String" user="styleWeb" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="styleWeb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="styleWeb" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="styleWeb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="styleWeb" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="styleWeb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="styleWeb" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+              <item name="select-dropdown.scss" type="620a8d5e:NestingTreeNode" />
+            </path>
+            <path>
+              <item name="styleWeb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="styleWeb" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="styleWeb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="styleWeb" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="styleWeb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="bcb0276e:PhpExternalLibrariesNodePatcher$PatchedExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="styleWeb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="bcb0276e:PhpExternalLibrariesNodePatcher$PatchedExternalLibrariesNode" />
+              <item name="PHP Runtime" type="20ee2d1f:SyntheticLibraryElementNode" />
+            </path>
+            <path>
+              <item name="styleWeb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="bcb0276e:PhpExternalLibrariesNodePatcher$PatchedExternalLibrariesNode" />
+              <item name="PHP Runtime" type="20ee2d1f:SyntheticLibraryElementNode" />
+              <item name="amqp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="styleWeb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="bcb0276e:PhpExternalLibrariesNodePatcher$PatchedExternalLibrariesNode" />
+              <item name="PHP Runtime" type="20ee2d1f:SyntheticLibraryElementNode" />
+              <item name="apache" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="NewWatcherDialog.advanced.open" value="true" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://C:/styleWeb/js/selectstyle.js" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/heeyaWeb" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.SCSS" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\styleWeb\css" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\user\Downloads\dropdown-with-search-using-jquery\dropdown-with-search-using-jquery" />
+      <recent name="C:\styleWeb" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="78464ddf-aa3c-46a0-8eb4-28218febf314" name="Default" comment="" />
+      <created>1532915838989</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1532915838989</updated>
+      <workItem from="1532915840117" duration="2050000" />
+      <workItem from="1532917907551" duration="15115000" />
+      <workItem from="1532937394063" duration="237000" />
+      <workItem from="1532938089374" duration="1832000" />
+      <workItem from="1532941285965" duration="317000" />
+      <workItem from="1532941625479" duration="1119000" />
+      <workItem from="1532942891748" duration="485000" />
+      <workItem from="1532996894580" duration="22909000" />
+      <workItem from="1533026329800" duration="1970000" />
+      <workItem from="1533083770825" duration="3880000" />
+      <workItem from="1533096633431" duration="4641000" />
+      <workItem from="1533101588474" duration="11985000" />
+      <workItem from="1533165428302" duration="1324000" />
+      <workItem from="1533169380250" duration="1876000" />
+      <workItem from="1533177892734" duration="24815000" />
+      <workItem from="1533263859741" duration="616000" />
+      <workItem from="1533271173137" duration="6676000" />
+      <workItem from="1533277907620" duration="4465000" />
+      <workItem from="1533515594843" duration="20843000" />
+      <workItem from="1533602161835" duration="22811000" />
+      <workItem from="1533688286313" duration="23506000" />
+      <workItem from="1533774663115" duration="27214000" />
+      <workItem from="1533862152627" duration="4133000" />
+      <workItem from="1533875879781" duration="16493000" />
+      <workItem from="1534120591868" duration="28000" />
+      <workItem from="1534234683795" duration="31905000" />
+      <workItem from="1534466130489" duration="6583000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="259828000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32929516" />
+      <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.29438204" side_tool="true" weight="0.30947137" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="File Transfer" order="11" sideWeight="0.49970222" visible="true" weight="0.15267175" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.70561796" weight="0.30837005" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.071668535" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49889868" visible="true" weight="0.1119403" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info id="Structure" order="1" sideWeight="0.500821" side_tool="true" weight="0.33045623" />
+      <window_info id="Favorites" order="2" sideWeight="0.5011013" side_tool="true" weight="0.25402844" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.0" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+    <layout-to-restore>
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.0" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49889868" visible="true" weight="0.25402844" />
+      <window_info id="Structure" order="1" sideWeight="0.500821" side_tool="true" weight="0.33045623" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32929516" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.70561796" weight="0.30837005" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.071668535" />
+      <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.29438204" side_tool="true" weight="0.30947137" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="File Transfer" order="11" sideWeight="0.49970222" weight="0.15418503" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info id="Favorites" order="2" sideWeight="0.5011013" side_tool="true" visible="true" weight="0.25402844" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="14" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/Downloads/simple-line-icons-master/simple-line-icons-master/css/simple-line-icons.css" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/styles.css" />
+    <entry file="file://$PROJECT_DIR$/dashboard.html" />
+    <entry file="file://$USER_HOME$/Downloads/Searchable-Dropdown-Select-jQuery-Selectstyle/Searchable-Dropdown-Select-jQuery-Selectstyle/src/selectstyle.js" />
+    <entry file="file://$USER_HOME$/Desktop/plugIn/ui/bigSlide.js-master/bigSlide.js-master/dist/bigSlide.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="50" column="24" lean-forward="true" selection-start-line="50" selection-start-column="24" selection-end-line="50" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="730">
+          <caret line="56" column="12" selection-start-line="56" selection-start-column="12" selection-end-line="56" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/simpleSelect.css" />
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/phpstorm.jar!/resources/html5-schema/html5/phrase.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="859">
+          <caret line="347" column="16" selection-start-line="347" selection-start-column="16" selection-end-line="347" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/camptong/js/style.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="263">
+          <caret line="49" column="35" lean-forward="true" selection-start-line="49" selection-start-column="35" selection-end-line="49" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style - 복사본.css" />
+    <entry file="file://$USER_HOME$/Documents/네이트온 받은 파일/googlede017d6fd3444fe1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="47" lean-forward="true" selection-start-column="47" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/Dropdown-Select-Fuzzy-Search-jQuery-SimpleSelect/Dropdown-Select-Fuzzy-Search-jQuery-SimpleSelect/index.html" />
+    <entry file="file://$PROJECT_DIR$/css/select-dropdown.css" />
+    <entry file="file://$USER_HOME$/Downloads/Searchable-Dropdown-Select-jQuery-Selectstyle (1)/Searchable-Dropdown-Select-jQuery-Selectstyle/src/selectstyle.css" />
+    <entry file="file://$USER_HOME$/Downloads/jQuery-Plugin-For-Custom-Searchable-Select-List-Customselect/jQuery-Plugin-For-Custom-Searchable-Select-List-Customselect/index.html" />
+    <entry file="file://$USER_HOME$/Downloads/Searchable-Dropdown-Select-jQuery-Selectstyle (1)/Searchable-Dropdown-Select-jQuery-Selectstyle/src/selectstyle.js" />
+    <entry file="file://$USER_HOME$/Downloads/dropdown-with-search-using-jquery/dropdown-with-search-using-jquery/index.html" />
+    <entry file="file://$USER_HOME$/Downloads/Searchable-Dropdown-Select-jQuery-Selectstyle (1)/Searchable-Dropdown-Select-jQuery-Selectstyle/index.html" />
+    <entry file="file://$USER_HOME$/Downloads/dropdown-with-search-using-jquery/dropdown-with-search-using-jquery/index.php" />
+    <entry file="file://$PROJECT_DIR$/css/all.min.css" />
+    <entry file="file://$PROJECT_DIR$/css/font-awesome.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="3" column="28707" lean-forward="true" selection-start-line="3" selection-start-column="28707" selection-end-line="3" selection-end-column="28707" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.html" />
+    <entry file="file://$PROJECT_DIR$/member/member.html" />
+    <entry file="file://$PROJECT_DIR$/js/jquery.scrollbar.min.js" />
+    <entry file="file://$USER_HOME$/Downloads/jquery.scrollbar-gh-pages/jquery.scrollbar-gh-pages/demo/basic.html" />
+    <entry file="file://$USER_HOME$/Downloads/jquery.scrollbar-gh-pages/jquery.scrollbar-gh-pages/includes/jquery.js" />
+    <entry file="file://$USER_HOME$/Downloads/jquery.nicescroll-master/jquery.nicescroll-master/demo/index.html" />
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/phpstorm.jar!/resources/html5-schema/html5/aria.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="511">
+          <caret line="1637" column="63" lean-forward="true" selection-start-line="1637" selection-start-column="63" selection-end-line="1637" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/simple-line-icons.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/malihu-custom-scrollbar-plugin-master/malihu-custom-scrollbar-plugin-master/jquery.mCustomScrollbar.css" />
+    <entry file="file://$USER_HOME$/Downloads/malihu-custom-scrollbar-plugin-master/malihu-custom-scrollbar-plugin-master/examples/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="66" column="14" lean-forward="true" selection-start-line="66" selection-start-column="14" selection-end-line="66" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/malihu-custom-scrollbar-plugin-master/malihu-custom-scrollbar-plugin-master/examples/simple_example.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="41" column="38" selection-start-line="41" selection-start-column="38" selection-end-line="41" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/simpleSelect.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="673">
+          <caret line="160" lean-forward="true" selection-start-line="160" selection-end-line="160" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/bigSlide.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="359">
+          <caret line="357" column="28" lean-forward="true" selection-start-line="357" selection-start-column="28" selection-end-line="357" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/layout.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2028">
+          <caret line="76" column="18" lean-forward="true" selection-start-line="76" selection-start-column="18" selection-end-line="76" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/Searchable-Dropdown-Select-jQuery-Selectstyle/Searchable-Dropdown-Select-jQuery-Selectstyle/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="7" column="20" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/selectstyle.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="572">
+          <caret line="10" column="323" lean-forward="true" selection-start-line="10" selection-start-column="323" selection-end-line="10" selection-end-column="323" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/phpstorm.jar!/resources/html5-schema/html5/web-forms2.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="326" column="13" lean-forward="true" selection-start-line="326" selection-start-column="13" selection-end-line="326" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/jquery-3.1.1.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1742">
+          <caret line="3" column="748" selection-start-line="3" selection-start-column="748" selection-end-line="3" selection-end-column="748" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/style.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="858">
+          <caret line="33" column="13" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sftp-config.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="13" column="22" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/phpstorm.jar!/resources/html5-schema/html5/common.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4992">
+          <caret line="192" column="18" selection-start-line="192" selection-start-column="18" selection-end-line="192" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/selectstyle.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2106">
+          <caret line="81" column="28" lean-forward="true" selection-start-line="81" selection-start-column="28" selection-end-line="81" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/select-dropdown.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="12324">
+          <caret line="474" column="9" lean-forward="true" selection-start-line="474" selection-start-column="9" selection-end-line="474" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/member.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="516">
+          <caret line="232" column="20" lean-forward="true" selection-start-line="232" selection-start-column="20" selection-end-line="232" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="520">
+          <caret line="20" column="36" selection-start-line="20" selection-start-column="36" selection-end-line="20" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="156">
+            <caret line="5" column="3" lean-forward="true" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="473">
+          <caret line="606" column="8" selection-start-line="606" selection-start-column="8" selection-end-line="606" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/heeyaWeb/formStyle.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="73">
+          <caret line="203" column="52" selection-start-line="203" selection-start-column="52" selection-end-line="203" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/formStyle.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="213" column="20" selection-start-line="213" selection-start-column="20" selection-end-line="213" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SASS.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.23360288" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
