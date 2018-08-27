@@ -17,47 +17,16 @@
 					<!--span>관리자</span-->
 				</div>
 				<ul class="menuList" >
-					<li class="active has-sub depth1"><a href='#'><span><i class="icon-chart"></i>업체관리</span></a>
+					<li class="active has-sub depth1"><a href='#'><span><i class="icon-chart"></i>메뉴 1</span></a>
 						<ul>
-							<li><a href='#'><span>업체등록/수정</span></a></li>
-							<li><a href='#'><span>업체리스트</span></a></li>
-							<li><a href='#'><span>업체지점등록/수정</span></a></li>
-							<li><a href='#'><span>업체지점리스트</span></a></li>
+							<li><a href='#'><span>메뉴 1-1</span></a></li>
+							<li><a href='#'><span>메뉴 1-2</span></a></li>
+							<li><a href='#'><span>메뉴 1-3</span></a></li>
+							<li><a href='#'><span>메뉴 1-4</span></a></li>
 						</ul>
 					</li>
-					<li class="has-sub depth1"><a href='#'><span><i class="icon-organization"></i>채널관리</span></a>
-						<ul>
-							<li><a href='#'><span>체널등록/수정</span></a></li>
-							<li><a href='#'><span>채널리스트</span></a></li>
-						</ul>
-					</li>
-					<li class="has-sub depth1"><a href='#'><span><i class="icon-basket"></i>주문관리</span></a>
-						<ul>
-							<li><a href='#'><span>주문리스트</span></a></li>
-							<li><a href='#'><span>주문등록</span></a></li>
-							<li><a href='#'><span>대량주문등록</span></a></li>
-						</ul>
-					</li>
-					<li class="has-sub depth1"><a href='#'><span><i class="icon-present"></i>상품관리</span></a>
-						<ul>
-							<li><a href='#'><span>상품등록/수정</span></a></li>
-							<li><a href='#'><span>상품리스트</span></a></li>
-							<li><a href='#'><span>상품요일권종</span></a></li>
-						</ul>
-					</li>
-					<li class="has-sub depth1"><a href='#'><span><i class="icon-user"></i>회원관리</span></a>
-						<ul>
-							<li><a href='#'><span>회원리스트</span></a></li>
-						</ul>
-					</li>
-					<li class="has-sub depth1"><a href='#'><span><i class="icon-bubbles"></i>SMS관리</span></a>
-						<ul>
-							<li><a href='#'><span>SMS설정</span></a></li>
-							<li><a href='#'><span>SMS리스트</span></a></li>
-						</ul>
-					</li>
-					<li class="depth1"><a href='#'><span><i class="icon-bell"></i>앱푸쉬관리</span></a></li>
-					<li class="depth1"><a href='#'><span><i class="icon-pie-chart"></i>통계</span></a></li>
+					<li class="depth1"><a href='#'><span><i class="icon-bell"></i>메뉴 2</span></a></li>
+					<li class="depth1"><a href='#'><span><i class="icon-pie-chart"></i>메뉴 3</span></a></li>
 				</ul>
 				<span class="menu-link hamburger"><i class="icon-menu"></i></span>
 			</nav>
@@ -86,7 +55,7 @@
 						<article class="widget">
 							<section class="widget_container">
 								<div class="form_group">
-									<span class="formControl">
+									<div class="formControl">
 										<div class="selectControl styleXSmall">
 											<select placeholder="select search XSmall" data-search="true">
 												<option value="">select search XSmall</option>
@@ -103,17 +72,17 @@
 											</select>
 										</div>
 
-									</span>
-									<span class="formControl">
+									</div>
+									<div class="formControl">
 										<input class="styleXSmall" type="text" placeholder="input xsmall">
-										<input class="styleSmall" type="text" placeholder="input small">
+										<span class="check"><input class="styleSmall" type="text" placeholder="input small"></span>
 										<input class="styleMedium" type="text" placeholder="input medium">
-									</span>
-									<span class="formControl">
+									</div>
+									<div class="formControl">
 										<input class="styleXSmall simpleLine" type="text" placeholder="simpleLine xsmall">
 										<input class="styleSmall simpleLine" type="text" placeholder="simpleLine small">
 										<input class="styleMedium simpleLine" type="text" placeholder="simpleLine medium">
-									</span>
+									</div>
 								</div>
 								<div class="form_group">
 									<div class="formControl">
@@ -147,24 +116,41 @@
 										</div>
 									</div>
 								</div>
+								<div class="formControl">
+									<div style="width:800px;">
+										<textarea placeholder="textarea width 100%, min-height 80px"></textarea>
+									</div>
+								</div>
 								<div class="form_group">
 									<div class="formControl">
 										<input type="checkbox" id="c1" name="cc"/>
-										<label for="c1"><span></span>옵션1</label>
+										<label for="c1"><span></span>체크1</label>
 										<input type="checkbox" id="c2" name="cc"/>
-										<label for="c2"><span></span>옵션2</label>
+										<label for="c2"><span></span>체크2</label>
+										<input type="checkbox" id="chk" name="cc" checked/>
+										<label for="chk"><span></span>체크</label>
 									</div>
 									<div class="formControl">
 										<input type="radio" id="c3" name="rr"/>
-										<label for="c3"><span></span>동의</label>
+										<label for="c3"><span></span>라디오1</label>
 										<input type="radio" id="c4" name="rr"/>
-										<label for="c4"><span></span>비동의</label>
+										<label for="c4"><span></span>라디오2</label>
 									</div>
 								</div>
 								<div class="formControl">
 									<button type="button" class="btn">기본1</button>
 									<button type="button" class="btn btn-basic2">기본2</button>
-									<button type="button" class="btn btn-warning">경고</button>
+									<button type="button" class="btn btn-success">확인</button>
+									<button type="button" class="btn btn-danger">삭제</button>
+								</div>
+								<div class="formControl">
+									<span class="label">라벨 02</span>
+									<span class="label label-success">라벨 01</span>
+									<span class="label label-danger">라벨 03</span>
+								</div>
+								<div class="formControl">
+									<button type="button" class="btn btn-basic2 btn_layerPopup layerPopup_1">컨텐츠 세로 크기가  레이어 팝업</button>
+									<button type="button" class="btn btn-basic2 btn_layerPopup layerPopup_2">컨텐츠 크기만큼 길어지는 레이어 팝업</button>
 								</div>
 							</section>
 						</article>
@@ -194,48 +180,32 @@
 												<td>모든요일</td>
 												<td>텐트트</td>
 												<td>01066518462</td>
-												<td>사용</td>
-												<td>미사용</td>
+												<td><span class="label label-success">사용</span></td>
+												<td><span class="label label-danger">미사용</span></td>
 												<td>0</td>
 												<td>2018-02-14</td>
 												<td>2019-02-14</td>
 												<td>
 													<button type="button" class="btn">수정</button>
 													<button type="button" class="btn">양도</button>
-													<button type="button" class="btn btn-warning">탈퇴</button>
+													<button type="button" class="btn btn-danger">탈퇴</button>
 												</td>
 											</tr>
+											<tr  class="txt-style-center">
 												<td>탈퇴(취소)</td>
 												<td>AQDG201802000010</td>
 												<td>모든요일</td>
 												<td>텐트트</td>
 												<td>01066518462</td>
 												<td>사용</td>
-												<td>미사용</td>
+												<td><span class="label label-danger">미사용</span></td>
 												<td>0</td>
 												<td>2018-02-14</td>
 												<td>2019-02-14</td>
 												<td>
 													<button type="button" class="btn">수정</button>
 													<button type="button" class="btn">양도</button>
-													<button type="button" class="btn btn-warning">탈퇴</button>
-												</td>
-											</tr>
-											<tr class="txt-style-center">
-												<td>탈퇴(취소)</td>
-												<td>AQDG201802000010</td>
-												<td>모든요일</td>
-												<td>텐트트</td>
-												<td>01066518462</td>
-												<td>사용</td>
-												<td>미사용</td>
-												<td>0</td>
-												<td>2018-02-14</td>
-												<td>2019-02-14</td>
-												<td>
-													<button type="button" class="btn">수정</button>
-													<button type="button" class="btn">양도</button>
-													<button type="button" class="btn btn-warning">탈퇴</button>
+													<button type="button" class="btn btn-danger">탈퇴</button>
 												</td>
 											</tr>
 											<tr class="txt-style-center">
@@ -252,7 +222,24 @@
 												<td>
 													<button type="button" class="btn">수정</button>
 													<button type="button" class="btn">양도</button>
-													<button type="button" class="btn btn-warning">탈퇴</button>
+													<button type="button" class="btn btn-danger">탈퇴</button>
+												</td>
+											</tr>
+											<tr class="txt-style-center">
+												<td>탈퇴(취소)</td>
+												<td>AQDG201802000010</td>
+												<td>모든요일</td>
+												<td>텐트트</td>
+												<td>01066518462</td>
+												<td>사용</td>
+												<td>미사용</td>
+												<td>0</td>
+												<td>2018-02-14</td>
+												<td>2019-02-14</td>
+												<td>
+													<button type="button" class="btn">수정</button>
+													<button type="button" class="btn">양도</button>
+													<button type="button" class="btn btn-danger">탈퇴</button>
 												</td>
 											</tr>
 										<tbody>
@@ -267,6 +254,28 @@
 							<a href="">3</a>
 							<a href="" class="next"><i class="icon-arrow-right icons"></i></a>
 						</article>
+						<section class="layerPopup layerPopup1 scroll">
+							<header>
+								레이어팝업
+								<a class="btn_close" href="#"><i class="fa fa-times"></i></a>
+							</header>
+							<section class="container">
+								한화면에 여러개의 레이어팝업 사용이 가능합니다.
+								layerPopup 에 scroll 클래스명을 추가하면 height값이 500px 이상일 경우 스크롤이 생기는 팝업 입니다.
+								<span style="height:800px; display:block;"></span>
+							</section>
+						</section>
+						<section class="layerPopup layerPopup2">
+							<header>
+								레이어팝업
+								<a class="btn_close" href="#"><i class="fa fa-times"></i></a>
+							</header>
+							<section class="container">
+								한화면에 여러개의 레이어팝업 사용이 가능합니다.
+								layerPopup 에 scroll 클래스명을 추가하면 height값이 500px 이상일 경우 스크롤이 생기는 팝업 입니다.
+							</section>
+						</section>
+						<div class="layerOn"></div>
 					</section>
 				</div>
 			</section>
@@ -280,6 +289,38 @@
                     onchange : function(val){}
                 });
             });
+            var _scrollTop = 0;
+
+            $(document).ready(function(){
+                $('.btn_layerPopup').on('click', function() {
+                    var _class = $(this).attr("class").split("_")[2];
+                    var _dHeight = $(document).height();
+                    $('.layerPopup' + _class).show();
+                    _scrollTop = $(document).scrollTop();
+                    $(document).scrollTop(1730);
+                    $('.layerOn').css("display" , "block");
+                    return false;
+                });
+                $('.btn_close').on('click', function() {
+                    $('.layerPopup').hide();
+                    $(document).scrollTop(_scrollTop);
+                    $('.layerOn').css("display" , "none");
+                    return false;
+                });
+				//인풋 체크 이벤트
+                $('.check').on('click', function() {
+                    $(".check").addClass("on");
+                });
+                $('.check').focusout(function() {
+                    $(this).removeClass('on');
+                });
+                var valignHeight = $( "html" ).height();
+                $(".layerPopup").css({
+                    "top":(($( window ).height()-$(".layerPopup").outerHeight())/2+$(window).scrollTop())+"px",
+                    "left":(($( window ).width()-$(".layerPopup").outerWidth())/2+$(window).scrollTop())+"px"
+                });
+            });
+
 		</script>
 	</body>
 </html>

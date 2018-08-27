@@ -1,7 +1,9 @@
 $softBlack: #566270;
 $beforeActive-color: #ababab;
 $afterActive-color: #566270;
-$warning-color: #fe635e;
+$success-color: #58c9b9;
+$danger-color: #fe635e;
+
 @import url(http://fonts.googleapis.com/earlyaccess/nanumgothic.css);
 @import url(//cdn.rawgit.com/hiun/NanumSquare/master/nanumsquare.css);
 @import url(http://fonts.googleapis.com/earlyaccess/nanumgothic.css);
@@ -48,6 +50,12 @@ body:after {
     padding-left: 0
 }
 
+.blockShadow {
+    box-shadow: 0 3px 6px rgba(0, 0, 0, .16), 0 3px 6px rgba(0, 0, 0, .22);
+    border-top: 1px solid rgba(0, 0, 0, .1);
+    border-radius: 2px 2px 0 0;
+    @extend .listStyleN;
+}
 .iconsSimple {
     font-family: 'simple-line-icons';
     font-style: normal;
@@ -94,13 +102,19 @@ button {
     &:active, &:focus {
         outline: none;
     }
-    //btn-warning
-    &.btn-warning {
-        background-color: $warning-color;
-        border-color: $warning-color;
+    //btn-btn-success
+    &.btn-success {
+        background-color: $success-color;
+        border-color: $success-color ;
         color: #fff;
     }
-    //btn-warning
+    //btn-danger
+    &.btn-danger {
+        background-color: $danger-color;
+        border-color: $danger-color;
+        color: #fff;
+    }
+    //btn-btn-basic2
     &.btn-basic2 {
         background: #d3d3d3;
         border-color: #d3d3d3;
@@ -318,9 +332,11 @@ nav.panel {
         top: 19px;
         z-index: 10;
         width: 105px;
+
         .dropBox {
             left: auto;
             right: 0;
+            
         }
         .btn_drop {
             i {
