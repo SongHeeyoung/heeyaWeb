@@ -63,16 +63,34 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="formStyle.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="formStyle.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/formStyle.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="516">
-              <caret line="61" column="36" lean-forward="true" selection-start-line="61" selection-start-column="36" selection-end-line="61" selection-end-column="36" />
+            <state relative-caret-position="152">
+              <caret line="56" column="38" selection-start-line="56" selection-start-column="38" selection-end-line="56" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="78">
+                <caret line="3" column="35" selection-start-line="3" selection-start-column="35" selection-end-line="3" selection-end-column="35" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>회원리스트</find>
+      <find>select</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -121,7 +139,6 @@
         <option value="$PROJECT_DIR$/js/style.js" />
         <option value="$PROJECT_DIR$/js/selectstyle.js" />
         <option value="$PROJECT_DIR$/member.html" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$USER_HOME$/heeyaWeb/formStyle.html" />
         <option value="C:/SASS/css/style.scss" />
         <option value="$PROJECT_DIR$/SASS.html" />
@@ -129,6 +146,7 @@
         <option value="$PROJECT_DIR$/css/style.scss" />
         <option value="$PROJECT_DIR$/css/select-dropdown.scss" />
         <option value="$PROJECT_DIR$/formStyle.html" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -141,7 +159,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="82" />
     <option name="y" value="69" />
     <option name="width" value="1515" />
@@ -235,26 +253,26 @@
       <workItem from="1534914960722" duration="15159000" />
       <workItem from="1535334612154" duration="475000" />
       <workItem from="1535335638747" duration="159000" />
-      <workItem from="1535335807621" duration="489000" />
+      <workItem from="1535335807621" duration="1395000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="314503000" />
+    <option name="totallyTimeSpent" value="315409000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="82" y="69" width="1515" height="1047" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32929516" />
       <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.29438204" side_tool="true" weight="0.3091309" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="File Transfer" order="11" sideWeight="0.49970222" visible="true" weight="0.15198238" />
+      <window_info anchor="bottom" id="File Transfer" order="11" sideWeight="0.49970222" visible="true" weight="0.15049073" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.70561796" weight="0.11784141" />
       <window_info anchor="bottom" id="Version Control" order="10" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.071668535" />
       <window_info anchor="right" id="Remote Host" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49889868" visible="true" weight="0.22405498" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49889868" visible="true" weight="0.17377399" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" sideWeight="0.500821" side_tool="true" weight="0.33045623" />
@@ -360,7 +378,6 @@
     <entry file="file://$PROJECT_DIR$/js/selectstyle.js" />
     <entry file="file://$PROJECT_DIR$/member.html" />
     <entry file="file://$PROJECT_DIR$/login.html" />
-    <entry file="file://$PROJECT_DIR$/README.md" />
     <entry file="file://$USER_HOME$/heeyaWeb/formStyle.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="73">
@@ -415,8 +432,18 @@
     <entry file="file://$PROJECT_DIR$/css/select-dropdown.scss" />
     <entry file="file://$PROJECT_DIR$/formStyle.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="516">
-          <caret line="61" column="36" lean-forward="true" selection-start-line="61" selection-start-column="36" selection-end-line="61" selection-end-column="36" />
+        <state relative-caret-position="152">
+          <caret line="56" column="38" selection-start-line="56" selection-start-column="38" selection-end-line="56" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="78">
+            <caret line="3" column="35" selection-start-line="3" selection-start-column="35" selection-end-line="3" selection-end-column="35" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
