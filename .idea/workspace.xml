@@ -2,54 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="78464ddf-aa3c-46a0-8eb4-28218febf314" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/styleWeb.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/webServers.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/webServers.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.sass-cache/3a111543d5f863eb8837d9c220291fd02a944dce/style.scssc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/.sass-cache/dff26d12ece15dbe19151f57880c7b737cb094f6/select-dropdown.scssc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/font-awesome.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/select-dropdown.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/select-dropdown.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/selectstyle.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/simple-line-icons.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/style.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/style.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/FontAwesome.otf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/Simple-Line-Icons.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/Simple-Line-Icons.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/Simple-Line-Icons.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/Simple-Line-Icons.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/Simple-Line-Icons.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/fontawesome-webfont.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/fontawesome-webfont.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/fontawesome-webfont.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/fontawesome-webfont.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/fontawesome-webfont.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/formStyle.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/br_down.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/ful_grid_img.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/google.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/infini.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/infini2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/infini3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/login.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/login2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/logo.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/salang.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/search.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/tlog.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/bigSlide.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/jquery-3.1.1.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/selectstyle.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/simpleSelect.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/style.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/layout.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/login.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/member.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sftp-config.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -58,28 +12,47 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DockManager">
+    <window id="1">
+      <content type="file-editors">
+        <state>
+          <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+            <file leaf-file-name="formStyle.html" pinned="false" current-in-tab="true">
+              <entry file="file://$PROJECT_DIR$/formStyle.html">
+                <provider selected="true" editor-type-id="text-editor">
+                  <state relative-caret-position="312">
+                    <caret line="35" column="59" selection-start-line="35" selection-start-column="59" selection-end-line="35" selection-end-column="59" />
+                  </state>
+                </provider>
+              </entry>
+            </file>
+          </leaf>
+        </state>
+      </content>
+    </window>
+  </component>
   <component name="FavoritesManager">
     <favorites_list name="styleWeb" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="formStyle.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/formStyle.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="56" column="38" selection-start-line="56" selection-start-column="38" selection-end-line="56" selection-end-column="38" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="2366">
+                <caret line="91" column="8" selection-start-line="91" selection-start-column="8" selection-end-line="91" selection-end-column="8" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="78">
-                <caret line="3" column="35" selection-start-line="3" selection-start-column="35" selection-end-line="3" selection-end-column="35" />
-              </first_editor>
-              <second_editor />
+      <file leaf-file-name="select-dropdown.scss" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/css/select-dropdown.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="182">
+              <caret line="40" column="21" selection-start-line="40" selection-start-column="21" selection-end-line="40" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -144,9 +117,10 @@
         <option value="$PROJECT_DIR$/SASS.html" />
         <option value="$PROJECT_DIR$/worksheet.html" />
         <option value="$PROJECT_DIR$/css/style.scss" />
-        <option value="$PROJECT_DIR$/css/select-dropdown.scss" />
         <option value="$PROJECT_DIR$/formStyle.html" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="C:/wamp64/www/shy_jtys/index.html" />
+        <option value="$PROJECT_DIR$/css/select-dropdown.scss" />
       </list>
     </option>
   </component>
@@ -159,10 +133,12 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="82" />
-    <option name="y" value="69" />
-    <option name="width" value="1515" />
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-7" />
+    <option name="width" value="983" />
     <option name="height" value="1047" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -171,17 +147,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="heeyaWeb" type="b2602c69:ProjectViewProjectNode" />
-              <item name="heeyaWeb" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="Scope">
         <subPane subId="Project Files">
           <expand>
@@ -193,11 +158,23 @@
           <select />
         </subPane>
       </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="heeyaWeb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="heeyaWeb" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://C:/heeyaWeb/css/select-dropdown.scss" />
     <property name="WebServerToolWindowFactoryState" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="C:/html" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -253,26 +230,28 @@
       <workItem from="1534914960722" duration="15159000" />
       <workItem from="1535334612154" duration="475000" />
       <workItem from="1535335638747" duration="159000" />
-      <workItem from="1535335807621" duration="1395000" />
+      <workItem from="1535335807621" duration="2797000" />
+      <workItem from="1535345069921" duration="19232000" />
+      <workItem from="1535439492799" duration="34848000" />
+      <workItem from="1536035978918" duration="246000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="315409000" />
+    <option name="totallyTimeSpent" value="371137000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-7" y="0" width="983" height="1047" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32929516" />
       <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.29438204" side_tool="true" weight="0.3091309" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="File Transfer" order="11" sideWeight="0.49970222" visible="true" weight="0.15049073" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.70561796" weight="0.11784141" />
       <window_info anchor="bottom" id="Version Control" order="10" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.071668535" />
-      <window_info anchor="right" id="Remote Host" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49889868" visible="true" weight="0.17377399" />
+      <window_info anchor="right" id="Remote Host" order="3" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49889868" visible="true" weight="0.29685807" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" sideWeight="0.500821" side_tool="true" weight="0.33045623" />
@@ -284,6 +263,7 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info active="true" anchor="bottom" id="File Transfer" order="11" sideWeight="0.49970222" visible="true" weight="0.15198238" />
       <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
@@ -294,13 +274,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$APPLICATION_HOME_DIR$/lib/phpstorm.jar!/resources/html5-schema/html5/phrase.rnc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="859">
-          <caret line="347" column="16" selection-start-line="347" selection-start-column="16" selection-end-line="347" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://C:/camptong/js/style.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="263">
@@ -309,13 +282,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/style - 복사본.css" />
-    <entry file="file://$USER_HOME$/Documents/네이트온 받은 파일/googlede017d6fd3444fe1.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="47" lean-forward="true" selection-start-column="47" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$USER_HOME$/Documents/네이트온 받은 파일/googlede017d6fd3444fe1.html" />
     <entry file="file://$USER_HOME$/Downloads/Dropdown-Select-Fuzzy-Search-jQuery-SimpleSelect/Dropdown-Select-Fuzzy-Search-jQuery-SimpleSelect/index.html" />
     <entry file="file://$PROJECT_DIR$/css/select-dropdown.css" />
     <entry file="file://$USER_HOME$/Downloads/Searchable-Dropdown-Select-jQuery-Selectstyle (1)/Searchable-Dropdown-Select-jQuery-Selectstyle/src/selectstyle.css" />
@@ -365,7 +332,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/selectstyle.css" />
     <entry file="jar://$APPLICATION_HOME_DIR$/lib/phpstorm.jar!/resources/html5-schema/html5/web-forms2.rnc">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="361">
@@ -429,21 +395,41 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/select-dropdown.scss" />
-    <entry file="file://$PROJECT_DIR$/formStyle.html">
+    <entry file="file://$PROJECT_DIR$/css/selectstyle.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="56" column="38" selection-start-line="56" selection-start-column="38" selection-end-line="56" selection-end-column="38" />
+        <state relative-caret-position="312">
+          <caret line="5" column="82" selection-start-line="5" selection-start-column="82" selection-end-line="5" selection-end-column="82" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="78">
-            <caret line="3" column="35" selection-start-line="3" selection-start-column="35" selection-end-line="3" selection-end-column="35" />
+          <first_editor relative-caret-position="2366">
+            <caret line="91" column="8" selection-start-line="91" selection-start-column="8" selection-end-line="91" selection-end-column="8" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/wamp64/www/shy_jtys/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="546">
+          <caret line="21" column="25" lean-forward="true" selection-start-line="21" selection-start-column="25" selection-end-line="21" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/formStyle.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="35" column="59" selection-start-line="35" selection-start-column="59" selection-end-line="35" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/select-dropdown.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="40" column="21" selection-start-line="40" selection-start-column="21" selection-end-line="40" selection-end-column="21" />
         </state>
       </provider>
     </entry>
